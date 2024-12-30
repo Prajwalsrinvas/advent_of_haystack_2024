@@ -1,4 +1,4 @@
-# Advent of Haystack 2024 Solutions
+# Advent of Haystack 2024 Solutions 🎄
 
 My solutions for [Advent of Haystack 2024](https://haystack.deepset.ai/advent-of-haystack) challenges by Deepset.
 
